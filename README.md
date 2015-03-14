@@ -1,0 +1,1 @@
+# test_global_gitignore_repo
